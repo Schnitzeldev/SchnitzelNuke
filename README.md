@@ -1,0 +1,2 @@
+# SchnitzelNuke
+discord nuke bot
